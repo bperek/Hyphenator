@@ -1,9 +1,10 @@
-# Hyphenator.js
+# DEPRECATED
 
-- This repository replaces https://code.google.com/p/hyphenator/
-- Demo: http://mnater.github.io/Hyphenator/
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
 
-Note: Hyphenator.js has somewhat grown old. Have a look at its successor: https://github.com/mnater/Hyphenopoly
+**Warning: This project is no longer maintained.** Have a look at its successor: https://github.com/mnater/Hyphenopoly.
+
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
 
 ## Overview
 
@@ -70,6 +71,6 @@ And please, be patient. Hyphenator.js is a hobby of mine and sometimes other thi
 (1) Some of my coding wizards are:
 
 *   Franklin Mark Liang for his beautiful [hyphenation algorithm](http://www.tug.org/docs/liang/)
-*   [Douglas Crockford](http://www.crockford.com) for making Javascript a programming language
+*   [Brendan Eich](https://brendaneich.com/) for making JavaScript a programming language (and [Douglas Crockford](http://www.crockford.com) for finding The Good Parts of it)
 *   Vyacheslav Egorov for his [deep insights to V8](http://mrale.ph/)
 *   Bram Stein for his [initiative on web typography](http://stateofwebtype.com)
